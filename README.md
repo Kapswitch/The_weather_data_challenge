@@ -37,10 +37,3 @@ Using the global weather data, answer the following:
 2. Which country had the most consecutive days of tornadoes/funnel cloud formations?
 3. Which country had the second highest average mean wind speed over the year?
 
-## What are we looking for?
-We want to see how you handle:
-
-* Code quality and best practices
-* New technologies and frameworks
-* Messy (ie real) data
-* Understanding of data transformation. This is not a pass or fail test, we want to hear about your challenges and your successes with this challenge.
